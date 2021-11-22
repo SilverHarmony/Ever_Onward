@@ -1,110 +1,195 @@
 Using pre-set license
 Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8127 MB
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 65479 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+E:\Unity Editor\2020.2.1f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/lays3/Desktop/EVER_ONWARD/IDEK/Ever_Onward/Ever_Onward
+C:/Users/Silver/Desktop/Ever_Onward/Ever_Onward
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59558
-Successfully changed project path to: C:/Users/lays3/Desktop/EVER_ONWARD/IDEK/Ever_Onward/Ever_Onward
-C:/Users/lays3/Desktop/EVER_ONWARD/IDEK/Ever_Onward/Ever_Onward
+54727
+Successfully changed project path to: C:/Users/Silver/Desktop/Ever_Onward/Ever_Onward
+C:/Users/Silver/Desktop/Ever_Onward/Ever_Onward
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 200.76 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 34.91 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/lays3/Desktop/EVER_ONWARD/IDEK/Ever_Onward/Ever_Onward/Assets
+[Subsystems] Discovering subsystems at path E:/Unity Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Silver/Desktop/Ever_Onward/Ever_Onward/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e82)
     Vendor:   
-    VRAM:     2988 MB
-    Driver:   30.0.14.7208
+    VRAM:     8010 MB
+    Driver:   30.0.14.7168
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56112
+Mono path[0] = 'E:/Unity Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56944
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003929 seconds.
+Register platform support module: E:/Unity Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001123 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 83.89 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 30.62 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.737 seconds
+- Completed reload, in  0.932 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001132 seconds.
+Registered in 0.000992 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.441 seconds
+- Completed reload, in  0.793 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1250 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 140.5 MB.
-System memory in use after: 140.6 MB.
+System memory in use before: 141.6 MB.
+System memory in use after: 141.7 MB.
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1701.
-Total: 2.451800 ms (FindLiveObjects: 0.205300 ms CreateObjectMapping: 0.170600 ms MarkObjects: 2.007000 ms  DeleteObjects: 0.067200 ms)
+Total: 2.481800 ms (FindLiveObjects: 0.258900 ms CreateObjectMapping: 0.050300 ms MarkObjects: 2.096000 ms  DeleteObjects: 0.075200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Assest/Spells/Plant/Materials for Particle/plantCenter.mat
-  artifactKey: Guid(56f78263fee86c24d8e963266a2c0711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assest/Spells/Plant/Materials for Particle/plantCenter.mat using Guid(56f78263fee86c24d8e963266a2c0711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bc08978f1c8cc3557d473b37fe2651') in 0.457675 seconds
-  Import took 0.460051 seconds .
+  path: Assets/Assest/Environment
+  artifactKey: Guid(4ced6605cbea03745895577af887083a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assest/Environment using Guid(4ced6605cbea03745895577af887083a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa61b6a9236141ad56162b180a6e3d6') in 0.010195 seconds
+  Import took 0.012968 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000953 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.150 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1218 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.7 MB.
-System memory in use after: 142.7 MB.
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Assest/Environment/Castle
+  artifactKey: Guid(2151a4217e09a7f4ead1f8938f342b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assest/Environment/Castle using Guid(2151a4217e09a7f4ead1f8938f342b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b3d2f2a937ba0084db83db6eb85b77') in 0.011586 seconds
+  Import took 0.014153 seconds .
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1743.
-Total: 1.629300 ms (FindLiveObjects: 0.140800 ms CreateObjectMapping: 0.041200 ms MarkObjects: 1.387400 ms  DeleteObjects: 0.058200 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 17.089079 seconds.
+  path: Assets/Assets/leaf.fbx
+  artifactKey: Guid(b2050cd62fbc51048941132ce875130d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/leaf.fbx using Guid(b2050cd62fbc51048941132ce875130d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18e830a48aabc38311afb1ae06a75bb') in 0.165337 seconds
+  Import took 0.167696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.406504 seconds.
+  path: Assets/Assets/Environment/Interior/Chair  - Snow.obj
+  artifactKey: Guid(5950cc0b99970214ba9bbf802c7a5403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Chair  - Snow.obj using Guid(5950cc0b99970214ba9bbf802c7a5403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8cf032ca2a868913524539f1ff6a12a') in 0.058668 seconds
+  Import took 0.060957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Assets/Environment/Interior/Chandelier (Test).obj
+  artifactKey: Guid(57df2115aac1ee14182e71e74edce9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Chandelier (Test).obj using Guid(57df2115aac1ee14182e71e74edce9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a44f17b430148bd3e68da6be86553f9') in 0.397691 seconds
+  Import took 0.400326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Assets/Environment/Interior/Chair.obj
+  artifactKey: Guid(cbdce62df2db21d44a1169b408281491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Chair.obj using Guid(cbdce62df2db21d44a1169b408281491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0d6f256adcb5600f01225947df4f3f') in 0.031293 seconds
+  Import took 0.033708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Assets/Environment/Interior/Vase.obj
+  artifactKey: Guid(d05b314ce8c507544bf0dca5c4bf0d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Vase.obj using Guid(d05b314ce8c507544bf0dca5c4bf0d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336ebbfc7df62516ed4971f7d83844fe') in 0.044869 seconds
+  Import took 0.046997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Assets/Environment/Interior/Desk Chair - Snow.obj
+  artifactKey: Guid(bc5e82a91f664de45a1aaf282dadee22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Desk Chair - Snow.obj using Guid(bc5e82a91f664de45a1aaf282dadee22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15d647ad6e2cedc50768c20096f4dd4') in 0.037962 seconds
+  Import took 0.040238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Assets/Environment/Interior/Small Chest.obj
+  artifactKey: Guid(65e05e30f8febb746b4698b8af4d0a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Small Chest.obj using Guid(65e05e30f8febb746b4698b8af4d0a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa2cdcb17b622e4e1095ce83dba53415') in 0.198271 seconds
+  Import took 0.200691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Assets/Environment/Interior/Large Chest.obj
+  artifactKey: Guid(9912caee0c8204245a9cd5ee4b077e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Large Chest.obj using Guid(9912caee0c8204245a9cd5ee4b077e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7037cbf5fc0a7d14572d532e429939') in 0.093762 seconds
+  Import took 0.096095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Assets/Environment/Interior/Vase - Cherry Blossoms.obj
+  artifactKey: Guid(4d0bcc12457034745b1a3fd5d108dc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Vase - Cherry Blossoms.obj using Guid(4d0bcc12457034745b1a3fd5d108dc5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b6adce7cf9a708f02f12c738e63aa2') in 0.030400 seconds
+  Import took 0.032473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Assets/Environment/Interior/Podium - Snow.obj
+  artifactKey: Guid(934c59218e32ee046add9605f25d5f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Podium - Snow.obj using Guid(934c59218e32ee046add9605f25d5f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3876238e39065133dc295d97d92423a8') in 0.286129 seconds
+  Import took 0.288722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Assets/Environment/Interior/Podium.obj
+  artifactKey: Guid(69aa96515e11c6e4da4ebb7e35e27388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Podium.obj using Guid(69aa96515e11c6e4da4ebb7e35e27388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c19a360be5740cdbcf5c617953b9be') in 0.045718 seconds
+  Import took 0.048700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Assets/Environment/Interior/Desk Chair.obj
+  artifactKey: Guid(69b9294d3384e4d458664766b5f36eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Desk Chair.obj using Guid(69b9294d3384e4d458664766b5f36eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79ccf384adfcf0eebf5e247a057d8d9') in 0.051116 seconds
+  Import took 0.053619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Assets/Environment/Interior/Vase - Snow.obj
+  artifactKey: Guid(8ad3ea9a3756fae4db4e11241741ff3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Environment/Interior/Vase - Snow.obj using Guid(8ad3ea9a3756fae4db4e11241741ff3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a11f0651197647095e81aaae7887227b') in 0.032362 seconds
+  Import took 0.034854 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
