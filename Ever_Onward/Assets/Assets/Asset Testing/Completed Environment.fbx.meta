@@ -7,17 +7,52 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Accents
+      name: Bridge
     second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Gate
+      name: Doors, Door Frames, and Pillars
+    second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Environment
+    second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Environment Decor
+    second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gates
+    second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior Walls & Floors
     second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: No Name
+    second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outer Walls
+    second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roofs
+    second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stair Wells
     second: {fileID: 2100000, guid: 24734cc5a5c5ac8419259f43fea6ff30, type: 2}
   materials:
     materialImportMode: 2
